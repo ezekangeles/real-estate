@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/real-estate/static/css/main.92d1c3b9.css",
+    "main.js": "/real-estate/static/js/main.65339826.js",
+    "static/media/hero.webp": "/real-estate/static/media/hero.a85c142e34e993294ca4.webp",
+    "static/media/house7.jpg": "/real-estate/static/media/house7.597f7a531bbf1f737001.jpg",
+    "static/media/house6.jpg": "/real-estate/static/media/house6.136f37f4330385c7c365.jpg",
+    "static/media/house2.jpg": "/real-estate/static/media/house2.112decb656ceb4e9ea6f.jpg",
+    "static/media/house1.jpg": "/real-estate/static/media/house1.f66bcdb154f7b5d05d11.jpg",
+    "static/media/house3.jpg": "/real-estate/static/media/house3.bebfe3ff371b12ea5dd6.jpg",
+    "static/media/house5.jpg": "/real-estate/static/media/house5.11e032a3664285214ab1.jpg",
+    "static/media/house8.jpg": "/real-estate/static/media/house8.3719d38aa63668c7de19.jpg",
+    "static/media/house4.jpg": "/real-estate/static/media/house4.2b89d48793d34f23dc5e.jpg",
+    "static/media/firm3.avif": "/real-estate/static/media/firm3.c1dace44100c75dffe14.avif",
+    "static/media/firm4.avif": "/real-estate/static/media/firm4.2215d0799da7bb5fdcfe.avif",
+    "static/media/firm1.avif": "/real-estate/static/media/firm1.dd0a2c2afa6aca28d277.avif",
+    "static/media/firm2.avif": "/real-estate/static/media/firm2.65ecce097bbdd685afa3.avif",
+    "index.html": "/real-estate/index.html",
+    "main.92d1c3b9.css.map": "/real-estate/static/css/main.92d1c3b9.css.map",
+    "main.65339826.js.map": "/real-estate/static/js/main.65339826.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92d1c3b9.css",
+    "static/js/main.65339826.js"
+  ]
+}
